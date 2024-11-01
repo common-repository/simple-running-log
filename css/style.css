@@ -1,0 +1,10 @@
+.running_widget td, .running_widget tr {
+	border-width: 0px;
+	padding-left: 5px;
+	padding-bottom: 3px;
+	
+}
+
+.running_widget table {
+	border-width: 0px;
+}
